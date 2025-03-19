@@ -72,11 +72,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Developer portfolio website with Next.Js",
+    des: "A sleek and modern developer portfolio built with Next.js, showcasing projects, skills, and experience with smooth animations and an intuitive UI",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/adrianhajdin?tab=repositories",
+    link: "https://github.com/SajithMohan2772/sajithdev",
   },
   {
     id: 2,
@@ -96,11 +96,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Small 10 Vanilla JavaScript Projects for Beginners",
+    des: "Helping the developer community by providing 10 beginner-friendly JavaScript projects, covering essential concepts with practical examples.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    link: "https://github.com/SajithMohan2772/10-javascript-projects",
   },
 ];
 
